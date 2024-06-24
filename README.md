@@ -1,4 +1,4 @@
-                            **Customer Conversion Prediction**
+**Customer Conversion Prediction**
 **Project Overview**
 
 **Domain**
